@@ -1,2 +1,1 @@
-# Fundamentals_of_Computer_and_Programming_Winter_2020
-I was a Teacher Assistant for the Fundamentals of Computer and Programming course.
+####  Here is the archive of my sessions with the students of Fundamentals of Computer and Programming course in winter 2020.
